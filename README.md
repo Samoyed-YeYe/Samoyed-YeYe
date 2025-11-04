@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Samoyed-YeYe’s%20World!&fontSize=30&fontAlignY=35&animation=twinkling)
+![banner](https://capsule-render.vercel.app/api?type=waving&color=FDF6F0&height=200&section=header&text=Welcome%20to%20Samoyed-YeYe’s%20World!&fontSize=30&fontAlignY=35&animation=twinkling)
 
 ### 🐾 Hi there! I’m Samoyed-YeYe ☁️  
 Welcome to my corner of the coding world!
