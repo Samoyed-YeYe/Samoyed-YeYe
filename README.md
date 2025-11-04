@@ -1,3 +1,4 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20Samoyed-YeYe's%20World!&fontSize=30&fontAlignY=35&animation=twinkling)
 ### 🐾 Hi there! I’m Samoyed-YeYe ☁️  
 Welcome to my corner of the coding world!  
 
@@ -15,3 +16,8 @@ Welcome to my corner of the coding world!
 - 💌 Email: **enye071118@gmail.com**  
 - 🌐 Portfolio (coming soon!)  
 - 🐾 Motto: “Keep learning, stay kind, and chase the dream.”  
+---
+
+### 📈 My GitHub Stats
+
+![Samoyed-YeYe's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samoyed-YeYe&show_icons=true&theme=tokyonight)
