@@ -21,4 +21,4 @@ Welcome to my corner of the coding world!
 ---
 
 ### 📈 My GitHub Stats  
-![Samoyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samoyed-YeYe&show_icons=true&theme=default&hide_border=false)
+![Samoyed's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samoyed-YeYe&show_icons=true&bg_color=00000000&hide_border=true&text_color=555&title_color=444&icon_color=888)
