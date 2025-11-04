@@ -1,16 +1,17 @@
-## Hi there 👋
+### 🐾 Hi there! I’m Samoyed-YeYe ☁️  
+Welcome to my corner of the coding world!  
 
-<!--
-**Samoyed-YeYe/Samoyed-YeYe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 **About Me**  
+- 🌱 Currently learning **web development** step by step (HTML, CSS, JavaScript — and more to come!)  
+- 🧠 Always improving one project, one bug, one idea at a time  
+- ☕ I believe in calm focus, kindness, and clean code  
 
-Here are some ideas to get you started:
+💻 **What I’m working on**  
+- Building my first portfolio website  
+- Preparing to take freelance clients  
+- Learning how to make websites look beautiful *and* work smoothly  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📬 **Let’s Connect**  
+- 💌 Email: **enye071118@gmail.com**  
+- 🌐 Portfolio (coming soon!)  
+- 🐾 Motto: “Keep learning, stay kind, and chase the dream.”  
