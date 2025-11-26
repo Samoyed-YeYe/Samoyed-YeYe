@@ -23,13 +23,13 @@ Welcome to my corner of the coding world!
 
 ### 📊 My GitHub Stats
 
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Samoyed-YeYe&theme=calm&hide_border=true" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com?user=Samoyed-YeYe&theme=calm&hide_border=true" alt="GitHub streak" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samoyed-YeYe&layout=compact&theme=calm&hide_border=true" alt="Top Langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samoyed-YeYe&layout=compact&theme=calm&hide_border=true" alt="Top Langs" />
 
 </div>
-
