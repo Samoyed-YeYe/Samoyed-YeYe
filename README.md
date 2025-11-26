@@ -25,8 +25,11 @@ Welcome to my corner of the coding world!
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Samoyed-YeYe&show_icons=true&theme=calm&hide_border=true&card_width=400)
+<img src="https://streak-stats.demolab.com?user=Samoyed-YeYe&theme=calm&hide_border=true" alt="GitHub streak"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samoyed-YeYe&layout=compact&theme=calm&hide_border=true)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samoyed-YeYe&layout=compact&theme=calm&hide_border=true" alt="Top Langs"/>
 
 </div>
+
